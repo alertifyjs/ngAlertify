@@ -1,0 +1,3 @@
+[submodule "lib/alertify.js"]
+	path = lib/alertify.js
+	url = git@github.com:alertifyjs/alertify.js.git

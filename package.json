@@ -1,0 +1,46 @@
+{
+  "name": "ngalertify",
+  "version": "1.0.2",
+  "description": "Angular JS module for Alertify.js",
+  "main": "ngAlertify.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alertifyjs/ngAlertify.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "alertify",
+    "alertifyjs",
+    "alertify.js"
+  ],
+  "author": "Brad Berger <brad@bradb.net> (https://bradb.net)",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/alertifyjs/ngAlertify/issues"
+  },
+  "homepage": "https://github.com/alertifyjs/ngAlertify#readme",
+  "dependencies": {
+    "angular": "^1.4.7"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.4.7",
+    "browser-sync": "^2.9.10",
+    "eslint": "^1.6.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-file-insert": "^1.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-size": "^2.0.0",
+    "gulp-uglify": "^1.4.1",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-chrome-launcher": "^0.2.1",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-jasmine": "^0.3.6",
+    "karma-sauce-launcher": "^0.2.14",
+    "run-sequence": "^1.1.4"
+  }
+}

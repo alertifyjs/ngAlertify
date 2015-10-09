@@ -1,0 +1,30 @@
+{
+  "name": "ngAlertify",
+  "main": "ngAlertify.js",
+  "version": "1.0.2",
+  "authors": [
+    "Brad Berger <brad@bradb.net>"
+  ],
+  "description": "Official AngularJS module for Alertify.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "angularjs",
+    "alertify",
+    "alertifyjs",
+    "alertify.js",
+    "browser",
+    "notifications",
+    "dialog",
+    "alert"
+  ],
+  "license": "MPL-2.0",
+  "homepage": "https:///alertifyjs.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
