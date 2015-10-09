@@ -1,5 +1,7 @@
 # ngAlertify
 
+[![Build Status](https://semaphoreci.com/api/v1/projects/21b3774a-8f48-4d33-a51b-b939a879de7d/565625/badge.svg)](https://semaphoreci.com/alertifyjs/ngalertify)
+
 Angular JS module that wraps the Alertify.js global window function.
 
 ## Usage
